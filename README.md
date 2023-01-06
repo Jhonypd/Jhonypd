@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá mundo 👋
 
 - 👋 Olá, me chamo Jhony Pereira.
 - 👀 tenho interesse em HTML, CSS, JavaScript, React, TypeScript, Vue.js
