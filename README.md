@@ -1,7 +1,15 @@
-### Olá mundo 👋
+### Meu nome é **Jhony Pereira**
+:mortar_board: Atualmente sou estudante de engenharia de programação **Front-end**.
+##### Trabalho como coordenador de vendas.
 
-- 👋 Olá, me chamo Jhony Pereira.
-- 👀 tenho interesse em HTML, CSS, JavaScript, React, TypeScript, Vue.js
-- 💞️ Sou estudante de engenharia de programação Front-end.
+### Interesses
+##### :computer: Desenvolvimento de sites web.
+##### :iphone: Desenvolvimento de aplicativos web.
+##### :hash: HTML.
+##### :nail_care: CSS.
+##### :coffee: JavaScript.
+##### :elephant: PHP
+
+#### Contatos
 - 📫 Pode me encontrar LinkedIn [LinkedIn](https://www.linkedin.com/in/jhonypereiraduarte/)
 
