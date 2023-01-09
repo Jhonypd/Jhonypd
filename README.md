@@ -11,5 +11,5 @@
 ##### :elephant: PHP
 
 #### Contatos
-- 📫 Pode me encontrar LinkedIn [LinkedIn](https://www.linkedin.com/in/jhonypereiraduarte/)
+- 📫 Pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jhonypereiraduarte/)
 
