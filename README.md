@@ -6,6 +6,8 @@
 ##### :computer: Desenvolvimento de sites web.
 ##### :iphone: Desenvolvimento de aplicativos web.
 
+##
+
 <div style="display: inline-block;"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/ height="50px" width="60px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/ height="50px" width="60px">
@@ -20,6 +22,8 @@
 
 #### Contatos
 - 📫 Contate-me pelo e-mail: jhonyp1@icloud.com
+
+  ##
 
 <div style="display: inline-block;"> 
   <a href="https://instagram.com/jhonypereiraph" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
