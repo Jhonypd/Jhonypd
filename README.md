@@ -1,4 +1,4 @@
-### Olá, meu nome é **Jhony Pereira**
+### Olá, meu nome é ** #Jhony Pereira**
 :mortar_board: Atualmente sou estudante de engenharia de programação **Front-end**, meu objetivo é entrar nesse mercado como desenvolvedor web, estou determinado, e estou a procura de oportunidades.
 ##### Trabalho como gerente de vendas.
 
@@ -17,7 +17,7 @@
   ##
 
 #### Contatos
-- 📫 Contate-me pelo e-mail: jhony-16@live.com
+- 📫 Contate-me pelo e-mail: jhonyp1@icloud.com
 - 📫 Pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jhonypereiraduarte/)
 
 <div> 
@@ -25,6 +25,6 @@
   <a href="https://wa.me/5547997145097"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/a>
  <a href="hattps://www.linkedin.com/in/jhonypereiraduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/WemersonRoberto/WemersonRoberto/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Jhonypd/Jhonypd/blob/main/snake.svg)
  
 </div>
