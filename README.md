@@ -1,8 +1,10 @@
 ### Hello, my name is **Jhony Pereira**
-:mortar_board: I'm currently a student in **Front-end** programming engineering, and my goal is to enter the web development market. I'm determined and actively seeking opportunities.
+:mortar_board: Hi, I'm Jhony, currently living in Brusque, Santa Catarina.
+I migrated from the commercial area to explore new horizons in the world of web development. I am very happy with this new stage and am committed to applying my experience and skills to make a unique contribution to the field of web development.
+With my passion for technology and determination to learn, I'm ready to take on challenges and make a significant contribution.
 ##
-##### Current Job
-I currently work as a Sales Manager at Acerta Promotora, a financial institution that is part of the VIACERTA Banking Group. I have extensive experience in the financial services sector.
+
+
 ##
 ### Interests
 ##### :computer: Web development front-end.
