@@ -5,7 +5,7 @@ With my passion for technology and determination to learn, I'm ready to take on 
 ##
 
 
-##
+
 ### Interests
 ##### :computer: Web development front-end.
 ##### :iphone: Web application development.
