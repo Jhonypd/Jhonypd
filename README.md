@@ -30,7 +30,7 @@ With my passion for technology and determination to learn, I'm ready to take on 
 ##
 
 #### Contact
-- 📫 You can reach me via email: [jhonyp1@icloud.com](mailto:jhonyp1@icloud.com)
+- 📫 You can reach me via email: [jhonyp1@icloud.com](mailto:jhonyfrontend@outlook.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jhonypereiraduarte/)
 
 
